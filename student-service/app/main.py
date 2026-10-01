@@ -9,6 +9,7 @@ from app.db import Base, engine
 from app.routers import students
 from app.storage import ensure_container_exists
 
+# Week 08 pipeline demonstration
 
 logging.basicConfig(
     level=logging.INFO,
